@@ -1,5 +1,5 @@
 # ML_LLM
-Simple RAG example, Here I am searching Google.com for query, Storing them in ector  and then passing Vector Context to LLM for results.
+Simple RAG example using Azure LLM, Here I am searching Google.com for query, Storing them in ector  and then passing Vector Context to LLM for results.
 
 
 Example
